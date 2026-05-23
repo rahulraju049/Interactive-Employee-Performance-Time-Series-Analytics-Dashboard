@@ -132,11 +132,7 @@ This project demonstrates strong skills in **Business Intelligence, Data Visuali
 
 ---
 
-## Project Rating
-⭐ **8.3/10**  
-**Skill Level:** Intermediate Power BI Developer
 
----
 
 ## Author
 **Rahul M Raju**  
